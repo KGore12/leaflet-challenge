@@ -12,7 +12,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ![worldmap](https://github.com/KGore12/leaflet-challenge/blob/main/images/worldview1.png)
 
-Your first task is to visualize an earthquake data set.
+For leaflet 1, you will visualize an earthquake data set.
 
 1. **Get your data set**
 
