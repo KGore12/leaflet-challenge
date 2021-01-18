@@ -104,6 +104,6 @@ function createMap(earthquakes) {
       return div;
   };
   
-  legend.addTo(myMap);
+
 
 }
